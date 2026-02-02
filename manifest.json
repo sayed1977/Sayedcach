@@ -1,0 +1,17 @@
+{
+  "name": "منصة الأستاذ سيد مصطفى",
+  "short_name": "مستر سيد",
+  "description": "نظام إدارة مصروفات طلاب الرياضيات - الأستاذ سيد مصطفى",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fe",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3426/3426653.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
